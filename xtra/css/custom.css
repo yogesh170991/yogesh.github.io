@@ -1,0 +1,9 @@
+.mydiv{
+    background: #EBF2FF;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: black;
+    min-height: 100px;
+}
